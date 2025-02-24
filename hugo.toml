@@ -45,4 +45,3 @@ assetDirs = "static"
     identifier = "about"
     weight = 500
     url = "/about"
-

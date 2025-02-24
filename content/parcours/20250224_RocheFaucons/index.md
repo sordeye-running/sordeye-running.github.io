@@ -8,5 +8,5 @@ strava: 19457340
 
 La Roche aux Faucons
 
-{{< myiframe "QuatreCimesHerve2024.html" >}}
+{{< myiframe "./QuatreCimesHerve2024.html" >}}
 
