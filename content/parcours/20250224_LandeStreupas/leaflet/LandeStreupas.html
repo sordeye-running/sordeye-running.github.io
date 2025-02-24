@@ -39,7 +39,13 @@
 <script>
   var map = L.map('map', {fullscreenControl: true}).setView([50.68776,5.80572], 12);
 
-  L.tileLayer.provider('OpenStreetMap.Mapnik').addTo(map);
+  var baseMaps = {
+  	"CartoDB": CartoDB.Positron,
+  	"OpenStreetMap": OpenStreetMap.Mapnik,
+	"ESRI World Imagery": Esri.WorldImagery,
+  };
+
+  map.addLayer(OpenStreetMap.Mapnik)
 
   var customLayer = L.geoJson(null, {
   	style: function(feature) {
@@ -51,9 +57,21 @@
   	}
   });
 
+  var gpmLayer = L.geoJson(null, {
+  	style: function(feature) {
+  		return {
+  			color: 'red',
+  			weight: 3,
+  			opacity: .9
+  			};
+  	}
+  });
 
   var Parcours = omnivore.gpx('/run/data/QuatreCimes2024.gpx', null, customLayer);
   Parcours.addTo(map);
+
+
+L.control.layers(baseMaps, [], {autoZIndex:false, collapsed:false}).addTo(map);
 
 </script>
 

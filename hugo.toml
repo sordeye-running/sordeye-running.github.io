@@ -19,7 +19,7 @@ assetDirs = "static"
 
 [params.index]
   picture = "sordeye01.jpg"
-  picture404 = "maincover2.jpg"
+  picture404 = "barriere.jpg"
   title = "Sordeye running"
   subtitle = ""
   alertbar = false
