@@ -1,0 +1,31 @@
+{{ define "header"}}
+    {{- partial "_shared/navbar.html" . -}}
+{{ end }}
+
+{{ define "main" }}
+<div class="main-content">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-10 error">
+                <div class="mainheading">
+                    <h1 class="posttitle">Wrong way...</h1> 
+                </div>
+                <div class="article-post">
+                    Oops! It seems you didn't take the correct path.<br>
+                    Click <a href="/run">here</a> to start all over again.<br>
+
+                    {{ with .Site.Params.index.picture404 }}
+                        <img src="{{ . | urlize | relURL }}" class="rounded-circle text-center index-image">
+                    {{ end }}
+                </div>
+
+            </div>
+            <div class="col-md-1"></div>
+        </div>
+    </div>
+</div>
+{{ end }}
+
+{{ define "footer"}}
+{{ end }}

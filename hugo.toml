@@ -1,0 +1,48 @@
+baseURL = "https://ctroupin.github.io/sordeye-running"
+languageCode = "fr-br"
+title = "Sordeye running!"
+theme = "mediumish-gohugo-theme"
+summaryLength = 0
+copyright = "CTroupin - All rights reserved"
+enableEmoji = true
+publishDir = "docs"
+assetDirs = "static"
+
+[params]
+  logo = "logo.png"
+  description ="Rien de tel qu'une petite montée de la Sordeye pour se réveiller"
+
+[params.author]
+  name = "Charles Troupin"
+  thumbnail = "author.jpg"
+  #description = "Creator of this blog."
+
+[params.index]
+  picture = "sordeye01.jpg"
+  picture404 = "maincover2.jpg"
+  title = "Sordeye running"
+  subtitle = ""
+  alertbar = false
+
+## Main Menu
+[[menu.main]]
+    name = "Blog"
+    weight = 100
+    identifier = "blog"
+    url = "/blog"
+[[menu.main]]
+    name = "Coureurs"
+    weight = 200
+    identifier = "coureurs"
+    url = "/coureurs"
+[[menu.main]]
+    name = "Parcours"
+    identifier = "parcours"
+    weight = 400
+    url = "/parcours"
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    weight = 500
+    url = "/about"
+
