@@ -2,11 +2,10 @@
 title: "La Roche aux Faucons"
 publishdate: 2025-02-24
 comments: true
-distance: 12.3
-strava: 19457340
+distance: ???
 ---
 
 La Roche aux Faucons
 
-{{< myiframe "./QuatreCimesHerve2024.html" >}}
+{{< myiframe "./leaflet/RocheFaucons.map" >}}
 

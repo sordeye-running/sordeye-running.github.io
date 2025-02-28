@@ -5,6 +5,6 @@ comments: true
 distance: 12.3
 ---
 
-{{< myiframe "./leaflet/LandeStreupas.html" >}}
+{{< myiframe "./leaflet/LandeStreupas.map" >}}
 
 ![](./images/Streupas01.jpeg)

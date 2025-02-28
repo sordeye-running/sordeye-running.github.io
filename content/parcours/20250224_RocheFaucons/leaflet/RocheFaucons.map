@@ -5,7 +5,7 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	
-	<title>Les 4 Cimes du Pays de Herve - 2024</title>
+	<title>La Roche aux Faucons</title>
 	
 	<link rel="shortcut icon" type="image/x-icon" href="docs/images/favicon.ico" />
 
@@ -14,7 +14,7 @@
     <script src='//api.tiles.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.3.1/leaflet-omnivore.min.js'></script> 
     <script src='https://cdnjs.cloudflare.com/ajax/libs/leaflet.fullscreen/1.4.1/Control.FullScreen.min.js'></script> 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.fullscreen/1.4.1/Control.FullScreen.min.css"/>
-	<script src="https://unpkg.com/leaflet-providers@latest/leaflet-providers.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-providers/1.13.0/leaflet-providers.min.js" integrity="sha512-5EYsvqNbFZ8HX60keFbe56Wr0Mq5J1RrA0KdVcfGDhnjnzIRsDrT/S3cxdzpVN2NGxAB9omgqnlh4/06TvWCMw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
 	<style>
 		html, body {
@@ -37,7 +37,7 @@
 
 <div id="map" style="width: 100%; height: 400px;"></div>
 <script>
-  var map = L.map('map', {fullscreenControl: true}).setView([50.68776,5.80572], 12);
+  var map = L.map('map', {fullscreenControl: true}).setView([50.57043, 5.55809], 13);
 
   L.tileLayer.provider('OpenStreetMap.Mapnik').addTo(map);
 
@@ -51,9 +51,9 @@
   	}
   });
 
-  var Parcours = omnivore.gpx('QuatreCimes2024.gpx', null, customLayer);
-  Parcours.addTo(map);
 
+  var Parcours = omnivore.gpx('/sordeye-running/data/RocheFaucons.gpx', null, customLayer);
+  Parcours.addTo(map);
 
 </script>
 
