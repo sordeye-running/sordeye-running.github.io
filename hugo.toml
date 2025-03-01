@@ -1,4 +1,4 @@
-baseURL = "https://ctroupin.github.io/sordeye-running"
+baseURL = "https://sordeye-running.github.io"
 languageCode = "fr-br"
 title = "Sordeye running!"
 theme = "mediumish-gohugo-theme"
