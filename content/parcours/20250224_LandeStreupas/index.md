@@ -5,6 +5,6 @@ comments: true
 distance: 12.3
 ---
 
-{{< myiframe "leaflet/LandeStreupas.map" >}}
+{{< myiframe "leaflet/LandeStreupas.html" >}}
 
 {{< carousel items="1" height="500" unit="px" duration="1000000" data="images" >}}
