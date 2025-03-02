@@ -13,7 +13,7 @@ Enfant, j’ai beaucoup joué au football que j’ai délaissé depuis un moment
 
 Le dépassement de soi dans ces sports individuels prend une toute autre dimension que dans le football : effort solitaire, mentalement et physiquement exigeant, gestion de l’effort et de la douleur, l’hydratation et la nutrition, adaptation du terrain (terre, boue, neige, pierres, racines, rivières, dénivelé, …) en connexion avec la nature…
 
-Chaque sortie est un défi personnel.
+> Chaque sortie est un défi personnel.
 
 #### Un surnom?
 
