@@ -1,6 +1,7 @@
 ---
 title: Philippe
 strava: 14724540
+summary: https://www.strava.com/athletes/14724540
 ---
 
 #### Est-ce que tu peux te présenter (en moins de temps qu'il ne te faut pour courir un 400 m)?
