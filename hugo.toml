@@ -26,22 +26,22 @@ assetDirs = "static"
 
 ## Main Menu
 [[menu.main]]
-    name = "Blog"
+    name = "🖊️ Blog"
     weight = 100
     identifier = "blog"
     url = "/blog"
 [[menu.main]]
-    name = "Coureurs"
+    name = "🏃 Coureurs"
     weight = 200
     identifier = "coureurs"
     url = "/coureurs"
 [[menu.main]]
-    name = "Parcours"
+    name = "🗺️ Parcours"
     identifier = "parcours"
     weight = 400
     url = "/parcours"
 [[menu.main]]
-    name = "About"
+    name = "ℹ️ About"
     identifier = "about"
     weight = 500
     url = "/about"
