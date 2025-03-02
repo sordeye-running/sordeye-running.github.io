@@ -1,12 +1,14 @@
 ---
 title: Joël
 strava: 18515740
+tags: ["Crètes de Spa", "Jogging de Verviers", "Marathon de Bruxelles", "Trèfle à 4 feuilles"]
 summary: https://www.strava.com/athletes/18515740
 ---
 
 #### Est-ce que tu peux te présenter (en moins de temps qu'il ne te faut pour courir un 400 m)?
 
 Joël, 42 ans, père de jumelles de 3 ans et ingénieur chimiste à l’Université de Liège. J’ai toujours adoré le sport, en vrai mais aussi dans mon canapé : football, cyclisme, athlétisme et formule 1.
+
 Enfant, j’ai beaucoup joué au football que j’ai délaissé depuis un moment pour pratiquer le running/trail, le cyclisme et la natation ; des sports individuels mais où on peut faire des chouettes rencontres.
 
 Le dépassement de soi dans ces sports individuels prend une toute autre dimension que dans le football : effort solitaire, mentalement et physiquement exigeant, gestion de l’effort et de la douleur, l’hydratation et la nutrition, adaptation du terrain (terre, boue, neige, pierres, racines, rivières, dénivelé, …) en connexion avec la nature…

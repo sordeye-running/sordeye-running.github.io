@@ -5,7 +5,7 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	
-	<title>Le Trèfle à 4 Feuilles</title>
+	<title>Le Trèfle à 4 Feuilles 🍀</title>
 	
 	<link rel="shortcut icon" type="image/x-icon" href="docs/images/favicon.ico" />
 
@@ -50,7 +50,7 @@
   	}
   });
 
-  var Parcours = omnivore.gpx('/sordeye-running/data/trefle4feuilles_500pts.gpx', null, customLayer);
+  var Parcours = omnivore.gpx('/gpx/trefle4feuilles.gpx', null, customLayer);
   Parcours.addTo(map);
 
 
