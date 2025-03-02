@@ -7,4 +7,4 @@ distance: 12.3
 
 {{< myiframe "./leaflet/LandeStreupas.map" >}}
 
-![](./images/Streupas01.jpeg)
+{{< carousel items="1" height="500" unit="px" duration="1000000" data="images" >}}

@@ -52,7 +52,7 @@
   });
 
 
-  var Parcours = omnivore.gpx('/sordeye-running/data/Rocher_du_Bout_du_Monde.gpx', null, customLayer);
+  var Parcours = omnivore.gpx('/gpx/Rocher_du_Bout_du_Monde.gpx', null, customLayer);
   Parcours.addTo(map);
 
 </script>

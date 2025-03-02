@@ -52,7 +52,7 @@
   });
 
 
-  var Parcours = omnivore.gpx('/sordeye-running/data/RocheFaucons.gpx', null, customLayer);
+  var Parcours = omnivore.gpx('/gpx/RocheFaucons.gpx', null, customLayer);
   Parcours.addTo(map);
 
 </script>

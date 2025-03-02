@@ -50,7 +50,7 @@
   	}
   });
 
-  var Parcours = omnivore.gpx('/sordeye-running/data/LandeStreupas.gpx', null, customLayer);
+  var Parcours = omnivore.gpx('/gpx/LandeStreupas.gpx', null, customLayer);
   Parcours.addTo(map);
 
 
