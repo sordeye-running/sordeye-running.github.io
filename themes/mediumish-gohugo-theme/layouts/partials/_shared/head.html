@@ -15,6 +15,8 @@
 	<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 	<script src="https://kit.fontawesome.com/495d02e8e8.js" crossorigin="anonymous"></script>
 	<link href="https://fonts.googleapis.com/css?family=Righteous%7CMerriweather:300,300i,400,400i,700,700i" rel="stylesheet">
+	<script type="text/javascript" src="/js/carousel.js"></script>
+	<link rel="stylesheet" href="/css/carousel.css">
 
 	{{ $medium := resources.Get "/css/medium.css" | resources.Fingerprint }}
 	<link rel="stylesheet" href="{{ $medium.RelPermalink | absURL }}" integrity="{{ $medium.Data.Integrity }}">

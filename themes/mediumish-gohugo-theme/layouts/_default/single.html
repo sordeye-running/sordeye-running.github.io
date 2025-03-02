@@ -44,9 +44,7 @@
                         {{ if (isset .Params "racetime") }}
                             ⏱️ {{ .Params.racetime }} 
                         {{ end }}
-                        {{ if (isset .Params "strava") }}
-                            🏃 <a href="https://www.strava.com/athletes/{{ .Params.strava }}">Profil Strava</a> 
-                        {{ end }}
+                        
 
                         <!-- Post Featured Image -->
                         {{$images := .Resources.ByType "image"}}
@@ -63,7 +61,7 @@
                         <i class="fa-solid fa-tags"></i>                      
                         {{ range .Params.tags }}
                         <li>
-                        <a href="/run{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{.}}</a>
+                        <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{.}}</a>
                         </li>
                         {{ end }}
                         </ul>
