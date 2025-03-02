@@ -7,5 +7,5 @@ distance: ???
 
 La Roche aux Faucons
 
-{{< myiframe "./leaflet/RocheFaucons.map" >}}
+{{< myiframe "./leaflet/RocheFaucons.html" >}}
 

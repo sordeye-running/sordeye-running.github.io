@@ -15,6 +15,5 @@ Le première partie consiste à descendre jusqu'au pont de Tilff, pour cela il e
 Sentier de la Queue de Bois
 
 
-
-{{< myiframe "./leaflet/RocherBoutMonde.map" >}}
+{{< myiframe "./leaflet/RocherBoutMonde.html" >}}
 
