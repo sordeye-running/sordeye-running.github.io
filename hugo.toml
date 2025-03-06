@@ -1,5 +1,7 @@
 baseURL = "https://sordeye-running.github.io"
-languageCode = "fr-br"
+languageCode = "fr-FR"
+defaultContentLanguage = "fr"
+defaultContentLang = "fr"
 title = "Sordeye running!"
 theme = "mediumish-gohugo-theme"
 summaryLength = 0

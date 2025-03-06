@@ -33,24 +33,30 @@
                     <!-- Post Content -->
                     <div class="article-post">
                         {{ if (isset .Params "racedate") }}
-                            📅 {{ dateFormat "2 January 2006, 15:00" .Params.racedate }} 
+                            📅 {{ dateFormat "2 January 2006" .Params.racedate }} <br>
                         {{ end }}
                         {{ if (isset .Params "distance") }}
-                            📏 {{ .Params.distance }} km 
+                            📏 {{ .Params.distance }} km <br>
                         {{ end }}
                         {{ if (isset .Params "elevation") }}
-                            ⛰️ {{ .Params.elevation }} m D⁺
+                            ↗️ {{ .Params.elevation }} m <br>
                         {{ end }}
                         {{ if (isset .Params "racetime") }}
-                            ⏱️ {{ .Params.racetime }} 
+                            ⏱️ {{ .Params.racetime }} <br>
                         {{ end }}
-                        
+                        {{ if (isset .Params "raceurl") }}
+                            ℹ️ <a href={{ .Params.raceurl }}>{{ .Params.raceurl }}</a> <br>
+                        {{ end }}
+                        {{ if (isset .Params "strava") }}
+                            🔗 <a href={{ .Params.strava }}>{{ .Params.strava }}</a> <br>
+                        {{ end }}
+                                              
 
                         <!-- Post Featured Image -->
-                        {{$images := .Resources.ByType "image"}}
+                        <!-- {{$images := .Resources.ByType "image"}}
                         {{with $images.GetMatch "*cover*" }}
                             <img class="featured-image img-fluid" src="{{ .Permalink }}" alt="thumbnail for this post">
-                        {{end}}
+                        {{end}} -->
                         <!-- End Featured Image -->
                         {{ .Content}}
                     </div>
