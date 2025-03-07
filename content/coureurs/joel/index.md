@@ -1,6 +1,5 @@
 ---
 title: Joël
-strava: 18515740
 tags: ["Crètes de Spa", "Jogging de Verviers", "Marathon de Bruxelles", "Trèfle à 4 feuilles"]
 summary: https://www.strava.com/athletes/18515740
 ---
