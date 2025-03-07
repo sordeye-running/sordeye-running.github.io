@@ -1,6 +1,5 @@
 ---
 title: Marc
-strava: 51429449
 summary: https://www.strava.com/athletes/51429449
 ---
 

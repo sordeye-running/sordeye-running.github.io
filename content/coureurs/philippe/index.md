@@ -10,7 +10,7 @@ Philippe Cerfontaine; j'aime le sport d'endurance (triathlon), la programmation 
 
 #### Un surnom?
 
-__Châssis__        
+_Châssis_        
 `NDLR:` n'hésitez pas à demander des explications complémentaires à Philippe concernant ce surnom.
 
 #### 📆 Depuis quand cours-tu?
