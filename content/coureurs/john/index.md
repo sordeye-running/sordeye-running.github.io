@@ -1,8 +1,9 @@
 ---
-title: J
+title: John
 strava: 106460854
 summary: https://www.strava.com/athletes/106460854
 tags: [" "]
+draft: true
 ---
 
 #### Est-ce que tu peux te présenter (en moins de temps qu'il ne te faut pour courir un 400 m)?

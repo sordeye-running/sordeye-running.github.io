@@ -1,7 +1,7 @@
 ---
 title: Joël
 tags: ["Crètes de Spa", "Jogging de Verviers", "Marathon de Bruxelles", "Trèfle à 4 feuilles"]
-summary: https://www.strava.com/athletes/18515740
+summary: "Ingénieur chimiste à l’Université de Liège. J’ai toujours adoré le sport, en vrai mais aussi dans mon canapé : football, cyclisme, athlétisme et formule 1."
 ---
 
 #### Est-ce que tu peux te présenter (en moins de temps qu'il ne te faut pour courir un 400 m)?
@@ -46,7 +46,7 @@ Il y en a plusieurs ; pas mal de courses où j’ai démarré trop vite.
 - Mes 3 premiers marathons avec une difficulté croissante en moins d’un an : 
   1. le premier festif ([Beer Lovers Marathon](https://beerloversmarathon.be/) 2019), 
   2. le deuxième sur route ([Bruxelles](https://brusselsairportmarathon.be/fr/) 2019) et 
-  3. le troisième en trail ([Trèfle à 4 Feuilles](https://www.courirpourleplaisir.be/le-trefle-a-4-feuilles/) 2020). {{< myiframe "Trefle.html" >}}
+  3. le troisième en trail ([Trèfle à 4 Feuilles](https://www.courirpourleplaisir.be/le-trefle-a-4-feuilles/) 2020). {{< myiframe "Trefle.map" >}}
 - [Jogging de Verviers](https://www.joggingdeverviers.be/) 2017 où je me rapproche de l’heure, temps amélioré de 13 minutes, alors que je ne me suis mis à la course à pieds que depuis une petite année.
 
 

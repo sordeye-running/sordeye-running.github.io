@@ -1,6 +1,6 @@
 ---
 title: Philippe
-summary: https://www.strava.com/athletes/14724540
+summary: "J'aime le sport d'endurance (triathlon), la programmation et les animaux 😉"
 tags: ["15 km de Liège", "marathon", "El Hierro", "Transvulcania"]
 ---
 
@@ -33,7 +33,7 @@ Le tour du barrage d'Eupen en moins d'une heure.
 
 [El Hierro](https://elhierro.travel/fr) 🇮🇨      
 `NDLR:` la plus petite des Îles Canaries.
-![alt](elhierro.jpg)
+![Image satellite de El Hierro](elhierro.jpg)
 
 #### 🗺️ Ta plus longue distance en course ou pour le fun?
 

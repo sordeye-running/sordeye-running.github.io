@@ -1,8 +1,9 @@
 ---
-title: R
+title: Romain
 strava: 31404776
 summary: https://www.strava.com/athletes/31404776
 tags: [" "]
+draft: true
 ---
 
 #### Est-ce que tu peux te présenter (en moins de temps qu'il ne te faut pour courir un 400 m)?
