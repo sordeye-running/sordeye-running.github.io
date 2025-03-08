@@ -56,10 +56,10 @@
                                               
 
                         <!-- Post Featured Image -->
-                        <!-- {{$images := .Resources.ByType "image"}}
+                        {{$images := .Resources.ByType "image"}}
                         {{with $images.GetMatch "*cover*" }}
                             <img class="featured-image img-fluid" src="{{ .Permalink }}" alt="thumbnail for this post">
-                        {{end}} -->
+                        {{end}}
                         <!-- End Featured Image -->
                         {{ .Content}}
                     </div>
