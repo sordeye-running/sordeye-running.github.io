@@ -16,7 +16,7 @@ strava: https://www.strava.com/activities/2905575469
 
 Cette épreuve se court par équipe de 3, avec un départ toutes les 30 secondes. Joël, Marc et Charles ont formé une équipe et terminé le parcours de 22 km en 2h21.
 
-{{< myiframe "Triplette.html" >}}
+{{< myiframe "Triplette.map" >}}
 
 Le course commence à Sart, pour ensuiter longer la Hoëgne sur plusieurs kilomètres, avant de bifurquer et de monter vers la Fagne, où la course atteint son altitude maximale (600 m). La descente se fait à proximité d'une autre rivière, la Statte.
 
