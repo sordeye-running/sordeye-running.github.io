@@ -29,6 +29,8 @@ Fracture de fatigue en tentant de faire les [15km de Liège](https://www.zatopek
 
 Le tour du barrage d'Eupen en moins d'une heure.
 
+{{< myiframe "eupen.map" >}}
+
 #### 🏝️ Le plus bel endroit où tu as couru?
 
 [El Hierro](https://elhierro.travel/fr) 🇮🇨      

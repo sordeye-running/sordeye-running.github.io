@@ -30,9 +30,8 @@ La 3ième fois que j’ai participé à la course [Sierre-Zinal](https://www.sie
 
 #### 🏅 Une course ou une sortie dont tu es particulièrement fier?
 
-Le [Tour des Glaciers de la Vanoise](https://trailsvanoise.fr/) (TGV) à Pralognan (73 km / 3800 m D⁺).
-
-![Le Lac aux Vaches](Lac_aux_vaches_TGV.jpg)
+Le [Tour des Glaciers de la Vanoise](https://trailsvanoise.fr/) (TGV) à Pralognan (73 km / 3800 m D⁺).       
+🎞️ La vidéo du départ est disponible ci-dessous ⤵️
 
 {{< video src="TGV.mp4" type="video/mp4" preload="auto" >}}
 
@@ -50,7 +49,7 @@ Le [Tour des Fiz](https://www.traildutourdesfiz.com/) (62 km / 4440 m D⁺).
 
 #### 🏃‍♂️🏃‍♀️ Un coureur ou une coureuse que tu as comme modèle?
 
-CT
+`CT`
 
 #### 🏁 Une course que tu rêverais de faire (si tu avais le temps et les moyens illimités)?
 
