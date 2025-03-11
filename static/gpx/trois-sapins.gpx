@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="GraphHopper" version="1.1" xmlns:gh="https://graphhopper.com/public/schema/gpx/1.1">
+<metadata><copyright author="OpenStreetMap contributors"/><link href="http://graphhopper.com"><text>GraphHopper GPX</text></link><time>2025-03-11T11:41:34.515Z</time></metadata>
+<trk>
+<name>GraphHopper Track</name><desc></desc>
+<trkseg><trkpt lat="50.585727" lon="5.588777"><ele>91.0</ele></trkpt>
+<trkpt lat="50.585723" lon="5.588685"><ele>91.1</ele></trkpt>
+<trkpt lat="50.585666" lon="5.588490"><ele>90.6</ele></trkpt>
+<trkpt lat="50.585438" lon="5.588400"><ele>89.8</ele></trkpt>
+<trkpt lat="50.585224" lon="5.588445"><ele>89.1</ele></trkpt>
+<trkpt lat="50.585127" lon="5.588406"><ele>88.8</ele></trkpt>
+<trkpt lat="50.585153" lon="5.588202"><ele>92.7</ele></trkpt>
+<trkpt lat="50.585063" lon="5.588046"><ele>96.6</ele></trkpt>
+<trkpt lat="50.585189" lon="5.587918"><ele>101.1</ele></trkpt>
+<trkpt lat="50.585208" lon="5.587553"><ele>105.0</ele></trkpt>
+<trkpt lat="50.585485" lon="5.587438"><ele>115.8</ele></trkpt>
+<trkpt lat="50.585515" lon="5.587368"><ele>117.5</ele></trkpt>
+<trkpt lat="50.585471" lon="5.587272"><ele>119.1</ele></trkpt>
+<trkpt lat="50.585498" lon="5.587049"><ele>126.4</ele></trkpt>
+<trkpt lat="50.585601" lon="5.587018"><ele>131.7</ele></trkpt>
+<trkpt lat="50.585601" lon="5.586849"><ele>134.2</ele></trkpt>
+<trkpt lat="50.585715" lon="5.586660"><ele>141.3</ele></trkpt>
+<trkpt lat="50.585886" lon="5.586660"><ele>148.6</ele></trkpt>
+<trkpt lat="50.586065" lon="5.586264"><ele>161.7</ele></trkpt>
+<trkpt lat="50.586145" lon="5.586225"><ele>165.2</ele></trkpt>
+<trkpt lat="50.586175" lon="5.586102"><ele>168.8</ele></trkpt>
+<trkpt lat="50.586303" lon="5.586111"><ele>174.2</ele></trkpt>
+<trkpt lat="50.586427" lon="5.585899"><ele>182.0</ele></trkpt>
+<trkpt lat="50.586536" lon="5.585820"><ele>182.8</ele></trkpt>
+<trkpt lat="50.586627" lon="5.585650"><ele>189.4</ele></trkpt>
+<trkpt lat="50.586958" lon="5.585419"><ele>200.7</ele></trkpt>
+<trkpt lat="50.586992" lon="5.585218"><ele>203.7</ele></trkpt>
+<trkpt lat="50.587061" lon="5.585040"><ele>206.6</ele></trkpt>
+<trkpt lat="50.587235" lon="5.584806"><ele>209.1</ele></trkpt>
+</trkseg></trk>
+</gpx>
