@@ -4,6 +4,7 @@ publishdate: 2025-02-28
 comments: true
 distance: 13.2
 elevation: 347
+draft: true
 ---
 
 Situés à Embourg, les Rochers du bout du monde consitutie un point de vue impressionant sur la vallée de l'Ourthe avec, en arrière-plan, le domaine du Sart Tilman.

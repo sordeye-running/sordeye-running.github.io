@@ -2,10 +2,9 @@
 title: "La Lande de Streupas"
 publishdate: 2025-03-10
 comments: true
-distance: 10.91
-comments: true
+distance: 10.9
 place: Sart-Tilman
-racetime: 1:10'
+racetime: "1:10"
 elevation: 214	
 strava: https://www.strava.com/activities/7812660206
 summary: "La Lande de Streupas est située dans le domaine du Sart Tilman et s'étend sur environ 10 ha. On y trouvait d'importants gisements de minerais."

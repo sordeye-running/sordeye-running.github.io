@@ -15,11 +15,14 @@
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
-		{{ if (isset .Params "distance") }}
-                    {{ .Params.distance }} km 
+                {{ if (isset .Params "distance") }}
+                    📏 {{ .Params.distance }} km
                 {{ end }}
-                <div class="clearfix"></div>
-            </div>
+                {{ if (isset .Params "elevation") }}
+                    ↗️ {{ .Params.elevation }} m
+                {{ end }}
+            <div class="clearfix"></div>
+        </div>
         </div>
     </div>
 </div>
