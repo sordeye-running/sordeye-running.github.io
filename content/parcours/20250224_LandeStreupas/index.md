@@ -8,19 +8,18 @@ place: Sart-Tilman
 racetime: 1:10'
 elevation: 214	
 strava: https://www.strava.com/activities/7812660206
+summary: "La Lande de Streupas est située dans le domaine du Sart Tilman et s'étend sur environ 10 ha. On y trouvait d'importants gisements de minerais."
 ---
 
 ---------------------------
 
 ## ℹ️
 
-La Lande de Streupas (ou Landes de Streupas) est située dans le [domaine du Sart Tilman](https://biodiversite.wallonie.be/fr/248-domaine-du-sart-tilman.html?IDD=251660995&IDC=1881). Elle s'étend sur environ 10 ha. On y trouvait d'importants gisements de minerais (sulfures de zinc, de plomb, de fer, etc), expoités par les usines de _la Vieille Montagne_. Les retombées ont ensuite contaminé le sol de la colline, empêchant ainsi que les arbres poussent.
+La Lande de Streupas (ou Landes de Streupas) est située dans le [domaine du Sart Tilman](https://biodiversite.wallonie.be/fr/248-domaine-du-sart-tilman.html?IDD=251660995&IDC=1881). Elle s'étend sur environ 10 ha. Le toponyme provient du wallon _streût_ (étroit): "passage étroit", car dans la quartier de Streupas (au niveau de la vallée), l'Ourthe se divise en deux bras d'une largeur d'environ 20 m, lesquels formet l'île de Streupas. 
 
-Le toponyme provient du wallon _streût_ (étroit): "passage étroit", car dans la quartier de Streupas (au niveau de la vallée), l'Ourthe se divise en deux bras d'une largeur d'environ 20 m, lesquels formet l'île de Streupas.
+On y trouvait d'importants gisements de minerais (sulfures de zinc, de plomb, de fer, etc), expoités par les usines de _la Vieille Montagne_. Les retombées ont ensuite contaminé le sol de la colline, empêchant ainsi que les arbres y poussent.
 
-L'endroit est assez fréquenté par les coureurs et les marcheurs, en particulier les gens qui viennent y promener leur(s) chien(s). 
-
-Depuis 2024, on peut y voir des vaches écossaises de race _Highland_, installée dans le but de mieux réguler la végétation. C'est la raison pour laquelle de nombreuses clotûres ont été installées.
+L'endroit est fort fréquenté par les coureurs et les marcheurs, en particulier les gens qui viennent y promener leur(s) chien(s). Depuis 2024, on peut y voir des vaches écossaises de race _Highland_, installée dans le but de mieux réguler la végétation. C'est la raison pour laquelle de nombreuses clotûres ont été installées.
 
 ## Accès
 

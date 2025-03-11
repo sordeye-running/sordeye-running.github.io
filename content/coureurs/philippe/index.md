@@ -1,6 +1,6 @@
 ---
 title: Philippe
-summary: "J'aime le sport d'endurance (triathlon), la programmation et les animaux 😉"
+summary: "J'aime le sport d'endurance (triathlon), la programmation et les animaux."
 tags: ["15 km de Liège", "marathon", "El Hierro", "Transvulcania"]
 ---
 
@@ -29,7 +29,7 @@ Fracture de fatigue en tentant de faire les [15km de Liège](https://www.zatopek
 
 Le tour du barrage d'Eupen en moins d'une heure.
 
-{{< myiframe "eupen.map" >}}
+{{< myiframe "eupen.html" >}}
 
 #### 🏝️ Le plus bel endroit où tu as couru?
 
