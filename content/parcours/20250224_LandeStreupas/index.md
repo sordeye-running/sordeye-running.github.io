@@ -20,14 +20,14 @@ On y trouvait d'importants gisements de minerais (sulfures de zinc, de plomb, de
 
 L'endroit est fort fréquenté par les coureurs et les marcheurs, en particulier les gens qui viennent y promener leur(s) chien(s). Depuis 2024, on peut y voir des vaches écossaises de race _Highland_, installée dans le but de mieux réguler la végétation. C'est la raison pour laquelle de nombreuses clotûres ont été installées.
 
-## Accès
+## {{< fa compass >}} Accès
 
 Il existe plusieurs chemins pour rejoindre la Lande de Streupas:
 - depuis Angleur: via la rue Triollet, ou via la rue de Tilff, par un petit chemin passant entre 2 maisons, au niveau de l'arrêt de bus "Angleur Streupas".
 - depuis le Sart Tilman: le chemin principal est celui qui commence rue de la Sordeye (près du rond point du _Marco Polo_) et descend à peu prêt parallèlement à la Belle Jardinière. Une fois au niveau des terrains de football, on continue sur un chemin qui monte vers la droite.
 - en voiture: il existe aussi un parking un peu plus bas que les terrains de foot (rue Triollet).
 
-## Le parcours
+## {{< fa map-location-dot >}} Le parcours
 
 Ici on est passé par le Marco Polo, la rue de la Sordeye puis le chemin qui nous emmène aux terrains de foot. Une fois arrivé au point de vue (4° kilomètre), on continue environ 500 m en direction nord-est, avant de remonter sur la rue Triollet. Le retour vers le Sart Tilman se fait par le même itinéraire.
 
@@ -37,11 +37,11 @@ Ici on est passé par le Marco Polo, la rue de la Sordeye puis le chemin qui nou
 
 Depuis le point de vue, on peut descendre vers le long des enclos et puis remonter sur le chemin principal. 
 
-### ⚠️ Prudence
+### {{< fa triangle-exclamation >}} Prudence
 
 Aucun passage difficile ou dangereux à signaler sur ce parcours.
 
-## 📷 Photos
+## {{< fa camera-retro >}} Photos
 
 {{< carousel items="1" height="500" unit="px" duration="1000000" data="images" >}}
 
