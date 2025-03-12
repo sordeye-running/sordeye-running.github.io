@@ -5,13 +5,14 @@ distance: 0.5
 elevation: 125
 draft: false
 strava: https://www.strava.com/segments/13798496
+summary: "La montée des 3 Sapins débute près du ruisseau du Blanc Gravier et permet d'obtenir un dénivelé positif d'environ 120 m."
 ---
 
 ----------------------
 
 ## {{< fa circle-info >}}   
 
-Le montée des 3 Sapins débute près du ruisseau du Blanc Gravier et permet d'obtenir un dénivelé positif d'environ 120 m sur un distance d'environ 0.5 km.
+La montée des 3 Sapins débute près du ruisseau du Blanc Gravier et permet d'obtenir un dénivelé positif d'environ 120 m sur un distance d'environ 0.5 km.
 
 ## {{< fa compass >}} Accès
 
