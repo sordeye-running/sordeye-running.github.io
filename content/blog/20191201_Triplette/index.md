@@ -14,15 +14,15 @@ summary: "La triplette est une course par équipe de 3 qui se court autour de Sa
 
 ---------------
 
-## 🏁 La course
+## {{< fa flag-checkered>}} La course
 
-Cette épreuve se court par équipe de 3, avec un départ toutes les 30 secondes. Joël, Marc et Charles ont formé une équipe et terminé le parcours de 22 km en 2h21.
+Ce trail se court par équipe de 3, avec un départ toutes les 30 secondes. [Joël](../../coureurs/joel/), [Marc]((../../coureurs/marc)) et Charles ont terminé ce parcours de 22 km en 2h21.
 
 {{< myiframe "Triplette.html" >}}
 
 Le course commence à Sart, pour ensuite longer la Hoëgne sur plusieurs kilomètres, avant de bifurquer et de monter vers la Fagne, où la course atteint son altitude maximale (600 m). La descente se fait à proximité d'une autre rivière, la Statte.
 
-## 📸 Photos
+## {{< fa camera-retro >}} Photos
 
 {{< carousel items="1" height="500" unit="px" duration="1000000" data="images" >}}
 
