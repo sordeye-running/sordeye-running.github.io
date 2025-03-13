@@ -16,10 +16,13 @@
         <div class="card-footer bg-white">
             <div class="wrapfooter">
                 {{ if (isset .Params "distance") }}
-                    📏 {{ .Params.distance }} km
+                    📏 {{ .Params.distance }} km &nbsp;
                 {{ end }}
                 {{ if (isset .Params "elevation") }}
-                    ↗️ {{ .Params.elevation }} m
+                    ↗️ {{ .Params.elevation }} m &nbsp;
+                {{ end }}
+                {{ if (isset .Params "racedate") }}
+                    📅 {{ dateFormat "2 January 2006" .Params.racedate }} <br>
                 {{ end }}
             <div class="clearfix"></div>
         </div>
