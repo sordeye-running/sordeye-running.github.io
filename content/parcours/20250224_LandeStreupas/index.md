@@ -12,7 +12,7 @@ summary: "La Lande de Streupas est située dans le domaine du Sart Tilman et s'�
 
 ---------------------------
 
-## ℹ️
+## {{< fa circle-info >}}
 
 La Lande de Streupas (ou Landes de Streupas) est située dans le [domaine du Sart Tilman](https://biodiversite.wallonie.be/fr/248-domaine-du-sart-tilman.html?IDD=251660995&IDC=1881). Elle s'étend sur environ 10 ha. Le toponyme provient du wallon _streût_ (étroit): "passage étroit", car dans la quartier de Streupas (au niveau de la vallée), l'Ourthe se divise en deux bras d'une largeur d'environ 20 m, lesquels formet l'île de Streupas. 
 

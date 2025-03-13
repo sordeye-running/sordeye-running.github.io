@@ -7,12 +7,12 @@ elevation: 237
 draft: false
 place: "Neupré, Esneux"
 strava: https://www.strava.com/activities/8559887302
+summary: "La Roche-aux-faucons est une falaise de calcaire qui offre une vue spectaculaire sur la vallée de l'Ourthe."
 ---
 
 -------------
 
-## ℹ️
-
+## {{< fa circle-info >}}
 
 La Roche-aux-faucons est une falaise de calcaire dominant le versant gauche de la vallée de l'Ourthe. Elle constitue un spectaculaire point de vue, avec une hauteur d'environ 120 mètres au dessus de la rivière. Le toponyme provient de la présence historique du faucon pélerin (_Falco peregrinus_).
 

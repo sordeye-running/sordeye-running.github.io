@@ -1,7 +1,6 @@
 ---
 title: "Triplette des Fagnes (Solwaster)"
 publishdate: 2025-03-04
-comments: true
 place: Sart
 racedate: 2019-12-01
 distance: 22.86
@@ -9,7 +8,7 @@ racetime: 2:21:25
 elevation: 558	
 raceurl: https://www.triplette-des-fagnes.be/
 strava: https://www.strava.com/activities/2905575469
-summary: "La triplette est une course par équipe de 3 qui se court autour de Sart et Solwaster."
+summary: "La triplette est une course de trail par équipe de 3 qui se court autour de Sart et Solwaster."
 ---
 
 ---------------
