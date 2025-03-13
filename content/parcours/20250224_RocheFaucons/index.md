@@ -5,6 +5,7 @@ comments: true
 distance: 11.4
 elevation: 237
 draft: false
+circular: true
 place: "Neupré, Esneux"
 strava: https://www.strava.com/activities/8559887302
 summary: "La Roche-aux-faucons est une falaise de calcaire qui offre une vue spectaculaire sur la vallée de l'Ourthe."
