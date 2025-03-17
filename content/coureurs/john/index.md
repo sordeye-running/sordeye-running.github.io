@@ -29,7 +29,7 @@ Ma participation au cross de Seraing, que j'ai couru presque entièrement en ét
 
 #### 🏅 Une course ou une sortie dont tu es particulièrement fier?
 
-Le [15km de Liège](https://www.zatopekmagazine.com/les-15km-de-liege-metropole/) 2016, bouclé en 1 heure et 26 secondes.
+Le [15 km de Liège](https://www.zatopekmagazine.com/les-15km-de-liege-metropole/) 2016, bouclé en 1 heure et 26 secondes.
 
 {{< myiframe "map.html" >}}
 
