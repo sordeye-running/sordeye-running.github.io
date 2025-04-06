@@ -1,5 +1,7 @@
 ---
 title: Marc
+coach: false
+delegue: true
 summary: https://www.strava.com/athletes/51429449
 tags: ["Jogging de Verviers", "Tour des Glaciers de la Vanoise", "Sierre-Zinal",  "Tour des Fiz"]
 summary: "J’ai toujours aimé être dans la nature et marcher. Ancien scout, j’ai toujours apprécié d’être au grand-air ainsi que faire des _hikes_. Ce qui a dû me rendre endurant."
