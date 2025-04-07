@@ -27,13 +27,13 @@
                         <h5> <a class="nav-link" href="{{ .URL }}"><i class="fa-solid fa-marker"></i> {{ .Name | title }}</a></h5>
                     {{ end }}
                     {{ if eq .Name "Coureurs" }}
-                        <h5> <a class="nav-link" href="{{ .URL }}"><i class="fa-solid fa-person-running"></i></i> {{ .Name | title }}</a></h5>
+                        <h5> <a class="nav-link" href="{{ .URL }}"><i class="fa-solid fa-person-running"></i> {{ .Name | title }}</a></h5>
                     {{ end }}
                     {{ if eq .Name "Parcours" }}
-                        <h5> <a class="nav-link" href="{{ .URL }}"><i class="fa-solid fa-map-location-dot"></i></i></i> {{ .Name | title }}</a></h5>
+                        <h5> <a class="nav-link" href="{{ .URL }}"><i class="fa-solid fa-map-location-dot"></i> {{ .Name | title }}</a></h5>
                     {{ end }}
                     {{ if eq .Name "About" }}
-                        <h5> <a class="nav-link" href="{{ .URL }}"><i class="fa-solid fa-circle-info"></i></i></i></i> {{ .Name | title }}</a></h5>
+                        <h5> <a class="nav-link" href="{{ .URL }}"><i class="fa-solid fa-circle-info"></i> {{ .Name | title }}</a></h5>
                     {{ end }}
                     
                 </li>
