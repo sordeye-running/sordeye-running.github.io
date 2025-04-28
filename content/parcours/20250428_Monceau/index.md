@@ -1,5 +1,5 @@
 ---
-title: "La Lande de Streupas"
+title: "Le chemin de Monceau"
 publishdate: 2025-04-28
 comments: true
 distance: 10.2
@@ -24,7 +24,7 @@ Pour arriver au début du chemin de Monceau, il faut suivre le RaVel de Tilff pe
 Pour rejoindre Tilff, on a choisit la descente via la Heid de Maël, bien que d'autres options soient possibles. Une fois dans la vallée, on suit le RaVel avant de bifurquer à droite. 
 Le chemin suit le Vallon du Sècheval et puis la Drève de Sain Anne. 
 
-{{< myiframe "leaflet/map.map" >}}
+{{< myiframe "leaflet/map.html" >}}
 
 ### Variantes
 
