@@ -7,6 +7,8 @@ place: Sart-Tilman
 racetime: "1:10"
 elevation: 250	
 strava: https://www.strava.com/activities/14311360618
+circular: true
+tags: ["Ruisseau", "Ourthe"]
 summary: "Le chemin de Monceau grimpe rapidement depuis l'Ourthe et permet de rejoindre le Bois de la Famelette."
 ---
 
