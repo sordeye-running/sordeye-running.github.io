@@ -5,6 +5,7 @@ comments: true
 distance: 1.7
 elevation: 125
 cote: true
+place: "Sart Tilman"
 summary: "Le Blanc Gravier est un ruisseau, affluant de l'Ourthe, qui prend sa source à proximité du Golf du Sart Tilman."
 draft: false
 tags: ["Ruisseau", "Côte"]

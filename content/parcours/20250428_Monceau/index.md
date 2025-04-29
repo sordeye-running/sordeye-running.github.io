@@ -3,7 +3,7 @@ title: "Le chemin de Monceau"
 publishdate: 2025-04-28
 comments: true
 distance: 10.2
-place: Sart-Tilman
+place: Tilff
 racetime: "1:10"
 elevation: 250	
 strava: https://www.strava.com/activities/14311360618

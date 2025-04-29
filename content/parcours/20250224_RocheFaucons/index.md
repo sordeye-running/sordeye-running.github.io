@@ -6,7 +6,7 @@ distance: 11.4
 elevation: 237
 draft: false
 circular: true
-place: "Neupré, Esneux"
+place: "Neupré"
 tags: ["Point de vue"]
 strava: https://www.strava.com/activities/8559887302
 summary: "La Roche-aux-faucons est une falaise de calcaire qui offre une vue spectaculaire sur la vallée de l'Ourthe."
@@ -21,7 +21,6 @@ La Roche-aux-faucons est une falaise de calcaire dominant le versant gauche de l
 À proximité se trouve la _Douve des Eaux Sauvages_, un des plus importants chantoirs de la région. La Roche-aux-faucons fait partie du patrimoine exceptionnel de Wallonie depuis 1947. Le sentier de grande randonnée `GR 57` passe également par le site. 
 
 🚲 Enfin, c'est un passage incontournable de la course "Liège-Bastogne-Liège", avec une montée de 4.4 km depuis Hony.
-
 
 [comment]: <> (https://biodiversite.wallonie.be/fr/3248-roche-aux-faucons.html?IDD=251661754&IDC=1881)
 
