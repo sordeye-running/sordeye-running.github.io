@@ -23,11 +23,11 @@ Plusieurs sentiers du domaine du Sart Tilman passe à proximité du Blanc Gravie
 
 ## {{< fa map-location-dot >}} Le parcours
 
-{{< myiframe "./leaflet/map.map" >}}
+{{< myiframe "./leaflet/map.html" >}}
 
 ### Variantes
 
-On peut effectuer la descente via le Chateau de Colonster ou éventuellement par les Trois Sapins {{< fa triangle-exclamation >}}.
+On peut effectuer la descente via le Chateau de Colonster ou éventuellement par les Trois Sapins.
 
 ### {{< fa triangle-exclamation >}} Prudence
 
