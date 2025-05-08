@@ -23,7 +23,7 @@ Par un ami dont le père était coureur de marathons.
 
 #### 😵‍💫 Une contre-performance ou un plan foireux que tu évites de raconter ? (Joker est une réponse acceptée)
 
-Fracture de fatigue en tentant de faire les [15km de Liège](https://www.zatopekmagazine.com/les-15km-de-liege-metropole/) en moins d'une heure.
+Fracture de fatigue en tentant de faire les [15 km de Liège](https://www.zatopekmagazine.com/les-15km-de-liege-metropole/) en moins d'une heure.
 
 #### 🏅 Une course ou une sortie dont tu es particulièrement fier?
 

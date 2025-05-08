@@ -7,7 +7,7 @@ distance: 15.2
 elevation: 121
 raceurl: https://www.zatopekmagazine.com/les-15km-de-liege-metropole/
 summary: "Ce dimanche avaient lieu les différentes épreuves du 15 km de Liège Métropole, avec une belle représentation de coureurs du Sart Tilman."
-tags: ["15km de Liège"]
+tags: ["15 km de Liège"]
 ---
 
 ---------------

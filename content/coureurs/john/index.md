@@ -41,7 +41,7 @@ En Corse 🇫🇷
 
 #### 🗺️ Ta plus longue distance en course ou pour le fun?
 
-À peine 25 km (trail des 15km de Liège en 2018)... Par contre, j’ai fait plus jeune la [Kennedymars Sittard](https://www.kennedymars.org/), une marche de 80 km en moins de 12h.
+À peine 25 km (trail des 15 km de Liège en 2018)... Par contre, j’ai fait plus jeune la [Kennedymars Sittard](https://www.kennedymars.org/), une marche de 80 km en moins de 12h.
 
 #### 🏃‍♂️🏃‍♀️ Un coureur ou une coureuse que tu as comme modèle?
 
