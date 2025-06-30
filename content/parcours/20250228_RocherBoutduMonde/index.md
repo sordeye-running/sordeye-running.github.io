@@ -2,7 +2,7 @@
 title: "Les Rochers du bout du monde"
 publishdate: 2025-02-28
 comments: true
-distance: 13.2
+distance: 14.2
 elevation: 347
 draft: false
 circular: true
@@ -26,7 +26,7 @@ Le première partie consiste à descendre jusqu'au pont de Tilff, pour cela il e
 
 Pour le retour, on suit le sentier dit _de la Queue de Bois_, qui est à peu près parallèle à l'autoroute E25. Pour traverser l'Ourthe (et l'E25), on emprunte le Pont d'Embourg. Pour rejoindre le Sart Tilman, on suit le RaVel jusqu'au passage à niveau, avant d'effectuer la montée via le [Blanc Gravier](../20250325_blancgravier/), ou s'il nous reste des forces, via les [Trois Sapins](../20250315_troissapins/).
 
-{{< myiframe "./leaflet/RocherBoutMonde.map" >}}
+{{< myiframe "./leaflet/RocherBoutMonde.html" >}}
 
-L'itinéraire proposé compte un peu 
+L'itinéraire proposé compte un peu plus de 14 km, ce qui veut dire que c'est un peu compliqué pour une sortie sur un temps de midi.
 
