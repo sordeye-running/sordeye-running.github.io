@@ -8,7 +8,7 @@ circular: true
 cote: true
 draft: false
 tags: ["Ruisseau", "Côte"]
-summary: "Le ruisseau de la Sordeye est une bonne option lorsqu'il s'agit de faire des entrainemebts en côte sur terrain technique."
+summary: "Le ruisseau de la Sordeye est une bonne option lorsqu'il s'agit de faire des entrainements en côte et sur terrain technique."
 ---
 
 ----------------------------
@@ -23,7 +23,7 @@ L'accès le plus direct se fait depuis les Homes (résidence universitaire) ou d
 
 ## {{< fa map-location-dot >}} Le parcours
 
-Le tracé proposé est une boucle d'un peu moins de 2 km de long, avec une descente le long de la rive gaucge du ruisseau, et une montée le long de la rive droite, pour un total de 120 m de dénivelé positif. 
+Le tracé proposé est une boucle d'un peu moins de 2 km de long, avec une descente le long de la rive gauche du ruisseau, et une montée le long de la rive droite, pour un total de 120 m de dénivelé positif. 
 
 {{< myiframe "./leaflet/map.map" >}}
 
