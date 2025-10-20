@@ -1,6 +1,6 @@
 ---
 title: "Semi-Marathon de l'Ourthe 2025"
-publishdate: 2025-10-08
+publishdate: 2025-09-29
 place: Hamoir
 racedate: 2025-09-28
 distance: 21.097 
