@@ -13,6 +13,15 @@ draft: false
 
 ---------------
 
+Naïm, Mars et Charles ont participé au Semi-Marathon de Liège. Ce sont plus de 5000 coureurs qui ont pris le départ des différentes courses, avec 2600 personnes annoncées sur le 21 km.
+
+Les 3 coureurs ont réalisé d'honorables performances en se plaçant aux avant-postes.
+
+| Coureur | &nbsp; Temps   | &nbsp; Course        | 
+| -----   | :-------: | :-----------:   |
+| Naïm    | 4:38:20	| &nbsp;&nbsp;&nbsp;	10 km | 
+| Mars    | 1:49:06 | &nbsp;&nbsp;&nbsp;  21 km |
+| Charles | 1:11:57	| 21 km |
 
 ## {{< fa map-location-dot >}} Le parcours
 
