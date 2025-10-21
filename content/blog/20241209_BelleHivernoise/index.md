@@ -20,9 +20,10 @@ La Belle Hivernoise fait partie des [_Belles Courses de Liège_](https://belles-
 - la Corrida des Remparts, 
 - le Semi Marathon et 
 - les 10 Miles de Liège.
+  
 Plusieurs distances sont proposées aux participants: 5.1, 13,1 km et 23 km.
 
-La course commence par la montée depuis Angleur jusqu'au Sart Tilman, normalement par la Belle Jardinière mais pas cette fois-ci, à cause des travaux. Une fois au Sart Tilman on continue vers les bâtiments d'Éducation Physique, puis on descend en direction du Chateau de Colonster. Ensuite on longue l'Ourthe en passant par _les Castors_ (KM 12) et on entame la montée par le ruisseau du Blanc Gravier. Après un tronçon commun avec la montée, la descente se poursuit dans la Lande de Streupas, pour finalement atteindre l'arrivée. 
+La course commence par la montée depuis Angleur jusqu'au Sart Tilman, normalement par la Belle Jardinière mais pas cette fois-ci, à cause des travaux. Une fois au Sart Tilman on continue vers les bâtiments d'Éducation Physique, puis on descend en direction du Chateau de Colonster. Ensuite on longe l'Ourthe en passant par _les Castors_ (KM 12) et on entame la montée par le ruisseau du Blanc Gravier. Après un tronçon commun avec la montée, la descente se poursuit dans la Lande de Streupas, pour finalement atteindre l'arrivée. 
 
 {{< myiframe "map.html" >}}
 

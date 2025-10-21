@@ -4,7 +4,7 @@ publishdate: 2025-06-29
 place: Verviers
 racedate: 2025-06-22
 distance: 13.8
-elevation: 
+elevation: 275
 raceurl: https://www.joggingdeverviers.be/
 summary: "Le Jogging de Verviers est un des évènements sportifs de la région, avec près de 2000 participants inscrits cette année."
 tags: ["Jogging de Verviers"]

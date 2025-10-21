@@ -18,7 +18,7 @@ La maladie ELA (_leucodystrophie_), est un groupe de maladies génétiques rares
 
 ## {{< fa map-location-dot >}} Le parcours
 
-En un peu plus de 15 km, la course a emmené les participants au sein du Campus Universitaire sur la première partie, pour ensuite traverser le parc scientifique et différentes entreprises 
+En un peu plus de 15 km, la course a emmené les participants au sein du Campus Universitaire sur la première partie, pour ensuite traverser le parc scientifique et différentes entreprises.
 
 {{< myiframe "map.html" >}}
 
