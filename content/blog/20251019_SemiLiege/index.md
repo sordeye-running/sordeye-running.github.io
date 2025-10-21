@@ -23,6 +23,8 @@ Les 3 coureurs ont réalisé d'honorables performances en se plaçant aux avant-
 | Mars    | 1:49:06 | &nbsp;&nbsp;&nbsp;  21 km |
 | Charles | 1:11:57	| 21 km |
 
+Naïm et Charles terminent 3° dans la catégorie `M40`.
+
 ## {{< fa map-location-dot >}} Le parcours
 
 Un parcours favorable aux PR, avec de longues lignes droites, très peu de dénivelé (30 m selon l'organisation), et de l'asphalte la plupart du temps.
