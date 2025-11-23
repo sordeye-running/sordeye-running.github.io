@@ -2,7 +2,7 @@
 title: Marc
 coach: false
 delegue: true
-summary: https://www.strava.com/athletes/51429449
+strava: https://www.strava.com/athletes/51429449
 tags: ["Jogging de Verviers", "Tour des Glaciers de la Vanoise", "Sierre-Zinal",  "Tour des Fiz"]
 summary: "J’ai toujours aimé être dans la nature et marcher. Ancien scout, j’ai toujours apprécié d’être au grand-air ainsi que faire des _hikes_. Ce qui a dû me rendre endurant."
 ---
@@ -11,7 +11,7 @@ summary: "J’ai toujours aimé être dans la nature et marcher. Ancien scout, j
 
 Marc, 69 ans, père de trois enfants et grand-père de 5 petits-enfants (1 fille et 4 garçons). J’ai toujours aimé être dans la nature et marcher. Ancien scout, j’ai toujours apprécié d’être au grand-air ainsi que faire des _hikes_. Ce qui a dû me rendre endurant.
 
-A la base, je suis géographe et puis géomaticien formé sur le « tas ». Actuellement, je suis retraité.
+À la base, je suis géographe et puis géomaticien formé sur le « tas ». Actuellement, je suis retraité.
 La course à pied me permet de complètement décrocher du quotidien et de ressentir un réel bien-être quelques heures après avoir fait un gros trail.
 
 #### Un surnom?
@@ -20,7 +20,7 @@ Aucun.
 
 #### 📆 Depuis quand cours-tu?
 
-Vers 20 ans, j’ai accompagné des copains pour un jogging mais sans aucun entrainement, cela a été très ardu. Un peu avant d’avoir eu 30 ans, quand j’étais coopérant au Maroc, j’ai été courir quelques fois dans la campagne avec un autre coopérant et cela m’a beaucoup plus !
+Vers 20 ans, j’ai accompagné des copains pour un jogging mais sans aucun entrainement, cela a été très ardu. Un peu avant d’avoir eu 30 ans, quand j’étais coopérant au Maroc, j’ai été courir quelques fois dans la campagne avec un autre coopérant et cela m’a beaucoup plu!
 
 #### Comment tu as atterris dans la course à pied?
 
