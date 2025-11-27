@@ -1,6 +1,6 @@
 ---
 title: Christophe
-summary: https://www.strava.com/athletes/
+strava: https://www.strava.com/athletes/
 tags: [""]
 draft: false
 summary: "."

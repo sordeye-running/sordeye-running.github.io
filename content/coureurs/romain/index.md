@@ -1,6 +1,6 @@
 ---
 title: Romain
-summary: https://www.strava.com/athletes/31404776
+strava: https://www.strava.com/athletes/31404776
 tags: ["10 Miles de Liège", "Marches ADEPS"]
 draft: false
 summary: "Je donne des cours de modélisation numérique aux futurs ingénieurs à l'université. 
