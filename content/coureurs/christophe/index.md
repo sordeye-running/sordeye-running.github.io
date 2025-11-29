@@ -38,9 +38,11 @@ Le [Tour des Glaciers](https://trailsvanoise.fr/les-trails/week-end-du-tgv/tour-
 
 50k ([Trail du Grand Ballon](https://www.grandballon.eu/trail-du-grand-ballon/) dans les Vosges).
 
+{{< myiframe "ballon.html" >}}
+
 #### 🏃‍♂️🏃‍♀️ Un coureur ou une coureuse que tu as comme modèle?
 
-Charles :-D et Courtney Dauwalter ?
+Charles :-D et Courtney Dauwalter ? (NDLR coureuse américaine d'ultra-marathons)
  
 #### 🏁 Une course que tu rêverais de faire (si tu avais le temps et les moyens illimités)?
 
