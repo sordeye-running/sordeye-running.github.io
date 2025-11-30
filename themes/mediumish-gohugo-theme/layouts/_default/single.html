@@ -61,21 +61,22 @@
                             <img class="featured-image img-fluid" src="{{ .Permalink }}" alt="thumbnail for this post">
                         {{end}}
                         <!-- End Featured Image -->
+                        <!-- Post Categories -->
+                        <div class="after-post-tags">
+                            <ul class="tags">
+                            <i class="fa-solid fa-tags"></i>                      
+                            {{ range .Params.tags }}
+                            <li>
+                            <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{.}}</a>
+                            </li>
+                            {{ end }}
+                            </ul>
+                        </div>
+                        <!-- End Categories -->
                         {{ .Content}}
                     </div>
                     
-                    <!-- Post Categories -->
-                    <div class="after-post-tags">
-                        <ul class="tags">
-                        <i class="fa-solid fa-tags"></i>                      
-                        {{ range .Params.tags }}
-                        <li>
-                        <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{.}}</a>
-                        </li>
-                        {{ end }}
-                        </ul>
-                    </div>
-                    <!-- End Categories -->
+                    
                     
                     <!-- Next and PrevPage inside current section -->
                     <div class="row PageNavigation d-flex justify-content-between font-weight-bold">
