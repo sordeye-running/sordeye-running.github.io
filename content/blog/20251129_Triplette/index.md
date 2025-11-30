@@ -6,7 +6,7 @@ racedate: 2025-11-29
 distance: 14. 
 elevation: 324
 raceurl: "https://www.triplette-des-fagnes.be/"
-summary: "."
+summary: "Une des courses en équipes la plus connue de la région, la Triplette des Fagnes emmène les participants sur des chemins techniques et souvent humides."
 tags: ["Triplette"]
 draft: false
 ---
@@ -21,11 +21,11 @@ Les départs se faisaient toutes les 15 secondes, de manière à éviter la cohu
 
 C'est un parcours relativement technique et humide que les coureurs ont dû affronter. Sur les premiers kilomètres, il fallait essayer de dépasser les équipes parties un peu avant, sur un chemin _single track_, ce qui ajoutait un peu de piment à la course.
 
+{{< myiframe "map.html" >}}
+
 Après un peu de route, on entamait rapidement une montée assez raide et qui a fait en sorte que beaucoup de coureurs marchent. Après être passés par Charneux puis Gospinal et le point culminant de l'épreuve, on pouvait entamer la descente le long de la Statte, jusqu'à ce qu'elle se jette dans la Hoëgne.
 
 Une petite montée les pieds mouillées, une traversée de prairie et nous voilà (déjà) à l'arrivée. On termine 43° équipe sur 137, même si on cherchait plus le plaisir que la performance.
-
-{{< myiframe "map.html" >}}
 
 ## {{< fa camera-retro >}} Photos
 

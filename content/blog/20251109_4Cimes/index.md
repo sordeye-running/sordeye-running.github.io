@@ -4,25 +4,25 @@ publishdate: 2025-11-09
 place: Liège
 racedate: 2025-11-23
 distance: 33. 
-elevation: 30
-raceurl: 
+elevation: 664
+raceurl: https://www.lesquatrecimes.be/
 summary: "Les 4 Cimes de Herve est une course très difficile, plus courte qu'un marathon mais avec un relief qui peut casser les jambes."
-tags: ["Semi-marathon", "Liège"]
+tags: ["4 Cimes", "Herve", "Battice"]
 draft: false
 ---
 
 ---------------
 
-Ce dimanche 9 novembre, sous un ciel clémente, Christophe, Joël et Charles ont pris le départ de la fameuse course _Les 4 Cimes_, qui est presque plus âgée que nos trois participants. C'était une première fois pour Christophe, tandis que Joël et Charles avait déjà été mis à l'épreuve par ce parcours exigeant et pour lequel l'allure idéale est difficile à estimer.
+Ce dimanche 9 novembre, sous un ciel clémente, Christophe, Joël et Charles ont pris le départ de la fameuse course _Les 4 Cimes_, qui est presque plus âgée que nos trois participants. C'était une première fois pour Christophe, tandis que Joël et Charles avait déjà été mis à l'épreuve par ce parcours exigeant et pour lequel l'allure idéale est toujours difficile à estimer.
 
 Tous les 3 ont pu rejoindre l'arrivée en un seul morceau, ce qui constitue déjà une belle performance.
 
 
 | Coureur | &nbsp; Temps   | 
 | -----   | :-------: | 
-| Naïm    | 4:38:20	| 
-| Mars    | 1:49:06 | 
-| Charles | 1:11:57	| 
+| Christophe | 4:38:20	| 
+| Joël    | 2:48:28 | 
+| Charles | 2:23:29	| 
 
 ## {{< fa map-location-dot >}} Le parcours
 
@@ -34,5 +34,7 @@ L'arrivée en montée _hors catégorie_ se chargera de terminer de détruire les
 {{< myiframe "map.html" >}}
 
 ## {{< fa camera-retro >}} Photos
+
+Merci à Eddy Defrère et Gédéon Baltazard pour les photos.
 
 {{< carousel items="1" height="500" unit="px" duration="1000000" data="images" >}}
