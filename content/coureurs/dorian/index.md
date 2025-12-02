@@ -39,7 +39,7 @@ summary: "."
 #### ❓❓ Une question que tu aurais voulu qu'on te pose, ou qu'on pose aux suivants?
 
  
-#### Question extra (des autres coureurs)
+#### Questions extra (des autres coureurs)
 
 > Marc: Qu’est-ce qui te motive à pratiquer la course à pied ?
 
