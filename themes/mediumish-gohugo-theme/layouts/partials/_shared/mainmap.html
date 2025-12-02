@@ -15,6 +15,7 @@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.heat/0.2.0/leaflet-heat.js" type="text/javascript" ></script>
 	<script src="/js/jcpmfmoves.js" type="text/javascript"></script>
 	<script src="/js/leaflet-distance-marker.js" type="text/javascript"></script>
+	<link rel="stylesheet" href="/css/leaflet-distance-marker.css" media="screen" />
 	<script src="/js/gpxcompute.js" type="text/javascript"></script>
 	<script src="https://cdn.jsdelivr.net/npm/leaflet-geometryutil@0.10.3/src/leaflet.geometryutil.min.js"></script>
 	<style type="text/css">
@@ -40,7 +41,6 @@
 	var gpxdir = '/gpx/JCPMF/'
 	var currentTime = new Date()
 	var thisyear = currentTime.getFullYear();
-	var latlonmeanlist = [];
 	var	meanpositionLayer = L.layerGroup([]);
 	var last = {
 		name: undefined, date: undefined,
@@ -98,6 +98,7 @@
 	info.addTo(map);
 
 	var latlon = [];
+	var latlonlast = [];
 	var lonlat = [];
 	var totaldist = 0.0;
 	var ntrackyear = 0;
@@ -171,6 +172,10 @@
 			dplus: elevation[0].toFixed(1),
 			dminus: elevation[1].toFixed(1),
 		};
+		coords = feature.geometry.coordinates;
+		for ( var i=0; i < coords.length; ++i ){
+			latlonlast.push([coords[i][1], coords[i][0]]);
+		}
 	};
 
 	var customLayer = L.geoJson(null, {
@@ -207,7 +212,7 @@
 		onEachFeature: onEachFeatureLast
 	});
 
-	function done(totaldist, markerMean) {
+	function done(totaldist) {
 		summary.onAdd = function (map) {
 				this._div = L.DomUtil.create('div', 'info'); // create a div with a class "info"
 				this._div.innerHTML = '<b>Total ' + thisyear + ':</b>  <br> Distance: ' + totaldist.toFixed(1) + ' km <br>' +
@@ -215,19 +220,18 @@
 				return this._div;
 		};
 		summary.addTo(map);
-		latlonmeanlist.push(markerMean);
 	}
 
 	var nMoves = moves.length;
 	for (var i = 0; i < nMoves ; i++) {
 		var moveGps = omnivore.gpx(gpxdir + moves[i], null, customLayer).on('ready', function() {
-			done(totaldist, markerMean);
+			done(totaldist);
 		}).addTo(map);
 	};
 
-	var moveGpsLast = omnivore.gpx(gpxdir + moves[nMoves-1], null, customLayer).on('ready', function() {
-		line = L.polyline(latlon, { color: linecolor, showAll: 11, offset: 1600, distanceMarkers: true });
-		L.marker(latlon[0]).addTo(map);
+	var moveGpsLast = omnivore.gpx(gpxdir + moves[nMoves-1], null, customLayerLast).on('ready', function() {
+		line = L.polyline(latlonlast, { color: "red", showAll: 11, offset: 1600, distanceMarkers: true });
+		L.marker(latlonlast[0]).addTo(map);
 		map.addLayer(line);
 		map.fitBounds(line.getBounds());
 		info.update(undefined, undefined, undefined, undefined, last);
@@ -266,7 +270,7 @@
 	var overlayers = {
 		"🏃 Previous tracks": moveGps,
 		"🔥 Heat map ": heatmap,
-		//" Last run": moveGpsLast,
+		//"Last run": moveGpsLast,
 		"📷 Points of interest": PIlayer
 	};
 
