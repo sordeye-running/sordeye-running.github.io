@@ -225,9 +225,6 @@
 		}).addTo(map);
 	};
 
-	omnivore.gpx(, null, customLayerLast).on('ready', function() {
-		doneLast(last);
-	});
 	var moveGpsLast = omnivore.gpx(gpxdir + moves[nMoves-1], null, customLayer).on('ready', function() {
 		line = L.polyline(latlon, { color: linecolor, showAll: 11, offset: 1600, distanceMarkers: true });
 		L.marker(latlon[0]).addTo(map);
