@@ -1,6 +1,6 @@
 ---
 title: "Rallye du 200e"
-publishdate: 2025-02-24
+publishdate: 2017-05-24
 comments: true
 place: "Arlon, Bastogne, Houffalize, Esneux, Liège"
 distance: ~160

@@ -13,7 +13,7 @@ draft: false
 
 ---------------
 
-Marc, Joël et Charles ont représenté la Sordeye Running Team ce samedi en participant à la triplette des Fagnes. Cette course emmène les équipes de 3 coureurs sur un des deux parcours (7 ou 14 km) de type trail autour de la petite localité de [Sart](https://www.tourismejalhaysart.be/), qui fait partie de la commune de Jalhay.
+Marc, Joël et Charles ont représenté la Sordeye Running Team ce samedi en participant à la triplette des Fagnes. Cette course emmène les équipes de 3 coureurs sur un des deux parcours (7 ou 14 km) de type trail autour de la petite localité de [Sart](https://www.tourismejalhaysart.be/), qui fait partie de la commune de Jalhay. Ils avaient également participé à l'[édition de 2019]( {{< relref "/blog/20191201_Triplette" >}}), sur un parcours un peu plus long (22 km).
 
 Les départs se faisaient toutes les 15 secondes, de manière à éviter la cohue. 
 
