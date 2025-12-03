@@ -35,6 +35,6 @@ L'arrivée en montée _hors catégorie_ se chargera de terminer de détruire les
 
 ## {{< fa camera-retro >}} Photos
 
-Merci à Eddy Defrère et Gédéon Baltazard pour les photos.
+Merci à Eddy Defrère et [Gédéon Baltazard]() pour les photos.
 
 {{< carousel items="1" height="500" unit="px" duration="1000000" data="images" >}}
