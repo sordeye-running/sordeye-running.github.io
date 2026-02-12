@@ -27,8 +27,6 @@ Fontin, Flogothier, Betgné, Hautgné, Hayen, ...
 
 On ne pourra pas oublier cette redoutable montée dans une sorte de coupe-feu, perpendiculaire aux isohypses (courbes de niveau), où Mars a fait parler sa puissance et sa jeunesse. La descente de la Chawresse, où on avait plus mis les pieds (du moins en groupe) depuis des années, suivie pas une très jolie montée vers le Grand Boubou, et une redecente sur Méry via le Petit Boubou.
 
-{{< relref "/blog/20191201_Triplette" >}}
-
 {{< myiframe "map.html" >}}
 
 Une fois au niveau de l'Ourthe on aurait pu penser que c'était fini, néanmoins il nous restait 4 kilomètres avec un peu dénivelé, avant de regagner notre point de départ et de pouvoir compenser ce déficit énergétique momentané. Autrement dit: on a mangé. 
