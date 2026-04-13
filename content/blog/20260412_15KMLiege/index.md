@@ -13,7 +13,7 @@ draft: false
 
 ---------------
 
-{{< myiframe "map.map" >}}
+{{< myiframe "./map.map" >}}
 
 
 Objectif principal des séances de `JCPMF`, les 15 KM de Liège Métropole offrait plusieurs distances aux coureurs, de quoi tester le programme d'entrainement mis en place par coach Dorian.
@@ -21,8 +21,8 @@ Objectif principal des séances de `JCPMF`, les 15 KM de Liège Métropole offra
 Avec une météo presque parfaite, c'est une bonne délégation du groupe de `JCPMF` + `Team CHU` qui a pris le départ aux différentes épreuves.
 
 
-| Coureur				| Distance | Temps  | Classement catégorie |
-|:----------------------|:--------:|:------:|:---------------------|
+| Coureur				| Distance &emsp; | &emsp; Temps   | &emsp; Classement catégorie |
+|:----------------------|:--------:|------:|:---------------------:|
 | Marc			| 45 km | 4:58:52 	| 1° M70 |
 | John			| 24 km | 2:08:24	| 1° M45 |
 | Mars			| 24 km | 1:56:13	| 9° SEH |
