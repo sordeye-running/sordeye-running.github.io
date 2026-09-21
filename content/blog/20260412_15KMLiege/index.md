@@ -13,13 +13,16 @@ draft: false
 
 ---------------
 
-{{< myiframe "./map.map" >}}
-
 
 Objectif principal des séances de `JCPMF`, les 15 KM de Liège Métropole offrait plusieurs distances aux coureurs, de quoi tester le programme d'entrainement mis en place par coach Dorian.
 
 Avec une météo presque parfaite, c'est une bonne délégation du groupe de `JCPMF` + `Team CHU` qui a pris le départ aux différentes épreuves.
 
+## Les parcours
+
+{{< myiframe "./map.html" >}}
+
+## Résulats
 
 | Coureur				| Distance &emsp; | &emsp; Temps   | &emsp; Classement catégorie |
 |:----------------------|:--------:|------:|:---------------------:|
@@ -47,6 +50,6 @@ https://www.youtube.com/watch?v=d3cKHi4632o
 
 ## {{< fa camera-retro >}} Photos
 
-Les photos officielles sur https://www.zatopekmagazine.com/les-15km-de-liege-metropole/photos-et-videos-des-ethias-15km-de-liege-metropole-2026/
+Les photos officielles sont disponibles sur le [site de la course](https://www.zatopekmagazine.com/les-15km-de-liege-metropole/photos-et-videos-des-ethias-15km-de-liege-metropole-2026/).
 
 {{< carousel items="1" height="500" unit="px" duration="1000000" data="images" >}}

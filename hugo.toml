@@ -10,6 +10,10 @@ enableEmoji = true
 publishDir = "docs"
 assetDirs = "static"
 
+[security]
+  allowContent = ['text/markdown','text/html']
+  enableInlineShortcodes = false
+
 [params]
   logo = "logo.png"
   description ="Rien de tel qu'une petite montée de la Sordeye pour se réveiller"
@@ -47,3 +51,8 @@ assetDirs = "static"
     identifier = "about"
     weight = 500
     url = "/about"
+[[menu.main]]
+    name = "Maps"
+    identifier = "maps"
+    weight = 600
+    url = "/maps"
