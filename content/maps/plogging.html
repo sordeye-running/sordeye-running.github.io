@@ -56,6 +56,11 @@
 
 	L.tileLayer.provider("OpenStreetMap.Mapnik").addTo(map);
 
+	var pneus = L.marker([50.568029, 5.559511]).addTo(map);
+    var dechets = L.marker([50.567300, 5.563618]).addTo(map);
+    var pointsNoirs = L.layerGroup([pneus, dechets]);
+
+
     var linecolor = "#964bff"
 
 	var heatStyle = {
@@ -95,7 +100,8 @@
 	heatlayer.addTo(map);
 
 	var overlayers = {
-		"🔥 Heat map ": heatmap
+		"🔥 Heat map ": heatmap,
+		"🗑️ Dépôts sauvages": pointsNoirs,
 	};
 
 	L.control.scale().addTo(map);
