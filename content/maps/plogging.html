@@ -84,17 +84,34 @@
 	var customLayer = L.geoJson(null, {
 		style: function(feature) {
 			return {
-				color: linecolor,
-				weight: 1.5,
-				opacity: .75
+				color: "white",
+				weight: 3,
+				opacity: .75,
+
 				};
 		},
 		onEachFeature: onEachFeature
+	});
+
+	var customLayer2 = L.geoJson(null, {
+		style: function(feature) {
+			return {
+				color: "red",
+				weight: 2,
+				opacity: .95,
+				dashArray: '5,10',
+				};
+		}
 	});
 		
 	var nMoves = moves.length;
 	for (var i = 0; i < nMoves ; i++) {
 	var moveGps = omnivore.gpx(gpxdir + moves[i], null, customLayer).addTo(map);
+	omnivore.gpx(gpxdir + moves[i], null, customLayer2).addTo(map);
+	}
+
+	for (var i = 0; i < nMoves ; i++) {
+		
 	}
 
 	var heatmap = L.heatLayer(latlon, heatStyle);
