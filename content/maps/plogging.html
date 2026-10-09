@@ -63,10 +63,11 @@
 	
 	var baseMaps = {
 		"OpenStreetMap": L.tileLayer.provider('OpenStreetMap.Mapnik'),
-		"CartoDB Dark Matter": L.tileLayer.provider('CartoDB.Positron', {
-			variant: 'dark_all',
-			apikey: cartoKey
-		}),
+		"CARTO Voyager": L.tileLayer(
+        'https://basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png?key=' + cartoKey, {
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
+            maxZoom: 20
+        }),
 		"ESRI World Imagery": L.tileLayer.provider('Esri.WorldImagery')
 	};
 
