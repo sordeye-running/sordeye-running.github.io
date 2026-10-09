@@ -60,12 +60,18 @@
   	},
 	onEachFeature: onEachFeature
   });
+	var line0 = L.layerGroup().addTo(map);
 
-  line0 = omnivore.gpx("/gpx/Liege2026_45K.gpx", null, customLayer).on('ready', function() {
-	line1 = L.polyline(latlon, { color: "red", showAll: 11, offset: 1600, distanceMarkers: true });
-	map.addLayer(line1);
-	map.fitBounds(line1.getBounds());
-  });
+	omnivore.gpx("/gpx/Liege2026_45K.gpx", null, customLayer).on('ready', function() {
+		var line1 = L.polyline(latlon, {
+			color: "red",
+			showAll: 11,
+			offset: 1600,
+			distanceMarkers: true
+		});
+		line0.addLayer(line1);          // not map.addLayer(line1)
+		map.fitBounds(line1.getBounds());
+	});
 
  var customLayer2 = L.geoJson(null, {
   	style: function(feature) {
