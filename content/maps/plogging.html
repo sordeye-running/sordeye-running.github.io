@@ -58,18 +58,20 @@
 
 	map.createPane("casing");
 	map.getPane("casing").style.zIndex = 399;
+
+	var cartoKey = 'cb1_3sas_1_b5ccb855a551491be3d92b7d'
 	
 	var baseMaps = {
 		"OpenStreetMap": L.tileLayer.provider('OpenStreetMap.Mapnik'),
-		"CartoDB.Positron": L.tileLayer.provider('CartoDB.Positron', {
+		"CartoDB Dark Matter": L.tileLayer.provider('CartoDB.Positron', {
 			variant: 'DarkMatter',
-			apikey: 'cb1_3sas_1_b5ccb855a551491be3d92b7d'
+			apikey: cartoKey
 		}),
-		"ESRI World Imagery": L.tileLayer.provider('Esri.WorldImagery'),
-		//"Stadia.AlidadeSmoothDark": L.tileLayer.provider('Stadia.AlidadeSmoothDark'),
-		};
+		"ESRI World Imagery": L.tileLayer.provider('Esri.WorldImagery')
+	};
 
-	L.tileLayer.provider("OpenStreetMap.Mapnik").addTo(map);
+	baseMaps["OpenStreetMap"].addTo(map);
+	L.control.layers(baseMaps).addTo(map);
 
 	var pneus = L.marker([50.568029, 5.559511]).addTo(map);
     var dechets = L.marker([50.567300, 5.563618]).addTo(map);
