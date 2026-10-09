@@ -61,10 +61,15 @@
 	
 	var baseMaps = {
 		"OpenStreetMap": L.tileLayer.provider('OpenStreetMap.Mapnik'),
-		//"Stadia Outdoors": L.tileLayer.provider('Stadia.Outdoors'),
+		"CartoDB.Positron": L.tileLayer.provider('CartoDB.Positron'),
 		"ESRI World Imagery": L.tileLayer.provider('Esri.WorldImagery'),
 		//"Stadia.AlidadeSmoothDark": L.tileLayer.provider('Stadia.AlidadeSmoothDark'),
 		};
+
+	L.tileLayer.provider('CartoDB.Positron', {
+		variant: 'DarkMatter',
+		apikey: 'cb1_3sas_1_b5ccb855a551491be3d92b7d'
+	}).addTo(map);
 
 	L.tileLayer.provider("OpenStreetMap.Mapnik").addTo(map);
 
